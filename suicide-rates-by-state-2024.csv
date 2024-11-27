@@ -1,0 +1,52 @@
+﻿State,MHEPC,PoliticalAffiliation,Region,MedianIncome,Population,SuicideRate,SuicideNumber,MarijuanaLaw
+Alabama,74.62,R,S,53.913,51.4303,15.8,827,Mixed
+Alaska,316.98,R,W,77.845,7.33536,30.8,220,Legal
+Arizona,216.87,R,W,69.056,74.97,19.5,1475,Legal
+Arkansas,42.98,R,S,52.528,30.8906,20.6,618,Mixed
+California,174.98,D,W,84.907,388.898,10.1,4148,Legal
+Colorado,121.9,D,W,82.254,59.1418,22.8,1384,Legal
+Connecticut,223.73,D,NE,83.771,36.2565,10,401,Legal
+Delaware,94.73,D,S,71.091,10.4432,13.6,137,Legal
+District of Columbia,335.16,D,S,90.088,6.86995,6.1,44,Legal
+Florida,36.05,D,S,63.062,229.759,14,3351,Mixed
+Georgia,60.15,S,S,66.559,111.453,15.3,1676,Mixed
+Hawaii,137.04,D,W,84.857,14.3088,13.7,202,Mixed
+Idaho,36.31,R,W,66.474,19.9046,20.5,387,Illegal
+Illinois,66.67,D,M,72.205,125.169,11.1,1454,Illegal
+Indiana,73.78,R,M,62.743,68.9212,16.4,1129,Mixed
+Iowa,154.27,R,M,65.6,32.1432,17.5,549,Mixed
+Kansas,124.11,R,M,64.124,29.4438,19.4,560,Illegal
+Kentucky,59.03,R,S,55.573,45.4074,17.9,816,Mixed
+Louisiana,48.31,D,S,52.087,45.5948,14.8,689,Mixed
+Maine,362.75,D,NE,64.767,14.0211,19.5,277,Legal
+Maryland,191.45,D,S,90.203,61.9652,9.7,620,Legal
+Massachusetts,113.27,D,NE,89.645,70.2006,8,604,Legal
+Michigan,124.43,D,M,63.498,100.412,14.3,1485,Legal
+Minnesota,195.09,D,M,77.72,57.6153,13.9,808,Legal
+Mississippi,98.93,R,S,48.716,29.4045,16.2,480,Mixed
+Missouri,103.94,D,M,61.847,62.1514,18.7,1177,Legal
+Montana,225.38,R,W,63.249,11.4275,32,350,Legal
+Nebraska,74.76,R,M,66.817,19.887,15,288,Illegal
+Nevada,90.44,D,W,66.274,32.1093,21.5,691,Legal
+New Hampshire,147.46,D,NE,88.465,14.051,15.1,223,Mixed
+New Jersey,213.12,D,NE,89.296,93.2086,7.1,688,Legal
+New Mexico,145.11,D,W,53.992,21.1527,25,533,Legal
+New York,251.12,D,NE,74.314,194.692,7.9,1660,Legal
+North Carolina,100.59,D,S,61.972,109.75,13.2,1448,Illegal
+North Dakota,94.23,R,M,66.519,7.8894,20.8,156,Mixed
+Ohio,96.79,R,M,62.262,118.122,14.6,1766,Legal
+Oklahoma,59.29,R,S,55.826,40.8838,22.1,877,Mixed
+Oregon,234.87,D,W,71.562,42.2734,19.5,889,Legal
+Pennsylvania,286.76,D,NE,68.957,129.513,13.9,1885,Mixed
+Rhode Island,105.72,D,NE,74.008,10.9808,10.3,117,Legal
+South Carolina,57.49,R,S,59.318,54.6416,15.2,802,Illegal
+South Dakota,86.77,R,M,66.143,9.28767,23.2,203,Mixed
+Tennessee,94.86,R,S,59.695,72.04,17,1222,Mixed
+Texas,45.23,D,S,66.963,309.768,14.2,4193,Mixed
+Utah,72.58,R,W,79.449,34.5423,20.1,643,Mixed
+Vermont,324.28,D,NE,72.431,6.47818,20.3,142,Legal
+Virginia,93.08,R,S,80.963,87.523,13.2,1188,Legal
+Washington,128.46,D,W,84.247,78.4128,15.3,1229,Legal
+West Virginia,92.37,R,S,51.248,17.6611,20.6,375,Mixed
+Wisconsin,112.05,S,M,67.125,59.3137,15.1,905,Mixed
+Wyoming,108.56,R,W,65.204,5.86485,32.3,190,Illegal
